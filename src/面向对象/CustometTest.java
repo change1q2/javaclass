@@ -44,7 +44,7 @@ public String getNation(String nation){}
 
 
 
-return关键字的使用：
+4.return关键字的使用：
         1.使用范围：使用在方法体中
         2.作用：
             1）结束方法
@@ -73,7 +73,7 @@ class Customer{
     int age;
     boolean isMale;
 
-    //方法
+    //方法的使用
     public void eat(){
         System.out.println("客户吃饭");
     }
